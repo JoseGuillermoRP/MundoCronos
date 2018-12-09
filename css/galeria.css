@@ -1,0 +1,29 @@
+#fondo-revista{
+     background: #000;
+}
+
+#galeria h3, h4{
+    text-align: center;
+}
+
+#galeria .contenedor{
+
+margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#galeria figure{
+    margin: 15px;
+
+}
+
+#galeria img{
+    width: 100%;
+    max-width: 1000px;
+    height: 70%;
+    
+}
+
+
+
